@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brofromspace&label=Profile%20views&color=0e75b6&style=flat" alt="brofromspace" /> </p>
 
-- 🔭 I’m currently working at **LIVE IT**
+- 🔭 Hi, I’m currently working at [LIVE IT](https://www.liveit.io/)
 
 - 🌱 I’m currently learning **django, js, node.js and vue.js**
 
