@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brofromspace&show_icons=true&locale=en&layout=compact" alt="brofromspace" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brofromspace&show_icons=true&locale=en" alt="brofromspace" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brofromspace&show_icons=true&include_all_commits=True&count_private=True&locale=en" alt="brofromspace" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brofromspace&" alt="brofromspace" /></p>
