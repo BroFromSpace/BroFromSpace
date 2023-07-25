@@ -6,7 +6,7 @@
 
 - 🔭 Hi, I’m currently working at [LIVE IT](https://www.liveit.io/)
 
-- 🌱 I’m currently learning **django, js, node.js and vue.js**
+- 🌱 I’m currently learning **django, node.js, GraphQl and vue.js**
 
 - 📫 How to reach me **kyrylo.korablov@gmail.com**
 
