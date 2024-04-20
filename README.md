@@ -3,11 +3,11 @@
 
 <hr />
 
-- 🔭 Hi, I’m currently working at [LIVE IT](https://www.liveit.io/)
+- 🔭 I’m currently working at [LIVE IT](https://www.liveit.io/)
 
-- 🌱 I’m currently learning **django, node.js, GraphQl and vue.js**
+- 🌱 I'm actively learning **terraform, aws, nuxt.js, fastapi**
 
-- 📫 How to reach me **<kyrylo.korablov@gmail.com>**
+- 📫 Reach me at **<kyrylo.korablov@gmail.com>**
 
 - ⚡ Fun fact **I really like dogs**
 
