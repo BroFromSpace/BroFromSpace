@@ -19,7 +19,7 @@ jobs:
 
           # Options
           user: BroFromSpace
-          template: classic
+          template: repository
           base: activity, community, repositories, metadata
           base_indepth: yes
           config_display: large
