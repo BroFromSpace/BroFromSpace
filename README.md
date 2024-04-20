@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working at [LIVE IT](https://www.liveit.io/)
 
-- 🌱 I'm actively learning **terraform, aws, nuxt.js, fastapi**
+- 🌱 Learning **terraform, aws, nuxt.js, fastapi**
 
 - 📫 Reach me at **<kyrylo.korablov@gmail.com>**
 
-- ⚡ Fun fact **I really like dogs**
+- ⚡ Fun fact: **I really like dogs**
 
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="100%"></p>
 
