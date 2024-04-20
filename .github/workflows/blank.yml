@@ -18,7 +18,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          # Options
           template: classic
           base: header, activity, community, repositories, metadata
           base_indepth: yes
@@ -43,7 +42,6 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_ignored: css, scss, sass
           plugin_languages_limit: 8
-          plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
