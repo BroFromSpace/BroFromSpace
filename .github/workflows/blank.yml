@@ -18,7 +18,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: BroFromSpace
           template: repository
           base: activity, community, repositories, metadata
           base_indepth: yes
