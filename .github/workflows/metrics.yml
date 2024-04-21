@@ -18,7 +18,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          template: clasic
+          template: classic
           base: activity, community, repositories, metadata
           base_indepth: yes
           config_display: large
