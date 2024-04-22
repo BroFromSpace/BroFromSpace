@@ -20,8 +20,12 @@ jobs:
           # Options
           template: classic
           base: activity, community, repositories, metadata
+          extra_js: |
+            section h2:contains("Starred topics") {
+                padding: 3rem;
+            }
           base_indepth: yes
-          config_display: large
+          config_display: columns
           config_timezone: Europe/London
           plugin_activity: yes
           plugin_activity_days: 14
