@@ -20,7 +20,7 @@ jobs:
           # Options
           template: classic
           base: activity, community, repositories, metadata
-          extra_js: |
+          extra_css: |
             section h2:contains("Starred topics") {
                 padding: 3rem;
             }
